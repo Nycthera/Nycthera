@@ -1,4 +1,4 @@
-#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Chris+Liu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&random=true&width=435&lines=Chris+Liu;student+developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working on React, Tailwind and React Native<br>🤝 I’m looking for help with Vue and Angular <br>🌱 I’m currently learning Next.js and Vue<br>⚡ Fun fact: I play Osu! with a mouse in the left hand 
